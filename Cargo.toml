@@ -1,0 +1,17 @@
+[package]
+edition = "2018"
+name = "dap-types"
+version = "0.0.0"
+authors = ["silvanshade <silvanshade@users.noreply.github.com>"]
+license = "Apache-2.0 WITH LLVM-exception"
+readme = "README.md"
+repository = "https://github.com/silvanshade/dap-types"
+keywords = []
+description = """
+Type definitions for the Debug Adapter Protocol
+"""
+
+[badges]
+maintenance = { status = "experimental" }
+
+[dependencies]
