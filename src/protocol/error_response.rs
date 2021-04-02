@@ -132,7 +132,7 @@ impl<'de> Deserialize<'de> for ErrorResponse {
             }
         }
 
-        const FIELDS: &'static [&'static str] = &[
+        const FIELDS: &[&str] = &[
             "seq",
             "kind",
             "request_seq",
