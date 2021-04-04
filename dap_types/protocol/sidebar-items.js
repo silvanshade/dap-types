@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["ErrorResponseMessage",""],["ErrorResponseType",""],["EventType",""],["RequestType",""],["ResponseMessage",""],["ResponseType",""]],"struct":[["ErrorResponse",""],["Event",""],["Request",""],["Response",""]]});

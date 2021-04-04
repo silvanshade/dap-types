@@ -1,1 +1,1 @@
-initSidebarItems({});
+initSidebarItems({"enum":[["RunInTerminalKind",""],["RunInTerminalRequest",""]],"struct":[["RunInTerminalArguments",""],["RunInTerminalResponse",""],["RunInTerminalResponseBody",""]]});

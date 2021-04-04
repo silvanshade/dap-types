@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["events",""],["protocol",""],["requests",""],["types",""]]});
+initSidebarItems({"mod":[["events",""],["requests",""],["types",""]],"trait":[["Request",""]]});
